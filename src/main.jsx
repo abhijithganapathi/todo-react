@@ -8,12 +8,12 @@ import ErrorPage from './Components/ErrorPage.jsx'
 
 const router=createBrowserRouter([
   {
-    path:'/',
+    path:'/todo-react/',
     element:<ToDoApp/>,
     errorElement:<ErrorPage/>
   },
   {
-    path:"/about",
+    path:"/todo-react/about/",
     element:<About/>
   }
 ])

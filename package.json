@@ -1,7 +1,7 @@
 {
-  "homepage": "https://abhijithganapathi.github.io/todo-react",
+  "homepage": "https://abhijithganapathi.github.io/todo-react/",
   "name": "todo-app",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
