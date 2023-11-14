@@ -4,8 +4,8 @@ import "./Header.css"
 function Header() {
   return (
     <header>
-        <a href="/">Home</a>
-        <a href="/about/">About</a>
+        <a href="/todo-react">Home</a>
+        <a href="/todo-react/about">About</a>
     </header>
   )
 }
