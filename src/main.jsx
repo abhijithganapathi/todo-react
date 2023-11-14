@@ -13,7 +13,7 @@ const router=createBrowserRouter([
     errorElement:<ErrorPage/>
   },
   {
-    path:"/todo-react/about",
+    path:"/todo-react/about/",
     element:<About/>
   }
 ])
