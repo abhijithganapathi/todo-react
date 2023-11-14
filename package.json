@@ -1,5 +1,5 @@
 {
-  "homepage": "https://abhijithganapathi.github.io/todo-react/",
+  "homepage": "https://abhijithganapathi.github.io/todo-react",
   "name": "todo-app",
   "private": true,
   "version": "0.0.0",
@@ -24,7 +24,7 @@
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.18.0",
     "reactjs-popup": "^2.0.6",
-    "sort-by": "^1.2.0"
+    "sort-by": "^0.0.2"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
