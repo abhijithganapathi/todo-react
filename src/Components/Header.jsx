@@ -1,11 +1,11 @@
-import React from 'react'
 import "./Header.css"
+import { Link } from 'react-router-dom'
 
 function Header() {
   return (
     <header>
-        <a href="/todo-react/">Home</a>
-        <a href="/todo-react/about/">About</a>
+        <Link to="/todo-react/">Home</Link>
+        <Link to="/todo-react/about/">About</Link>
     </header>
   )
 }
